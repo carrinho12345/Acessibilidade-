@@ -27,8 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('4965007.jpg
-');
+    background-image: url('4965007.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -74,7 +73,7 @@ section {
 }
 
 
-#tropicalia {
+#the beatles {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -85,7 +84,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#the beatles .container {
     display: flex;
     align-items: center;
     justify-content: center;
