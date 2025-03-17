@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --rosa escuro: #ff2a4e;
+    --rosa escuro: #CB6D43;
 }
 
 body {
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color:#ff2a4e;
+    background-color: #CB6D43;
 
 }
 
@@ -138,5 +138,5 @@ h2 {
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color:  #CB6D43;
 }
